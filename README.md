@@ -8,3 +8,7 @@
 [integrations-scheme.drawio](Task1/integrations-scheme.drawio)
 
 [![текущая схема интеграции приложений](Task1/integrations-scheme.jpg)](Task1/integrations-scheme.jpg)
+# Task2
+## FURPS+ таблица
+[FURPS+.md](Task2/FURPS+.md)
+# Task3
